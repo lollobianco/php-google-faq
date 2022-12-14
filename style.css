@@ -1,0 +1,45 @@
+.header{
+   width: 100%;
+   border-bottom: 1px solid lightgray;
+   padding: 15px 15px 0 15px;
+   flex-direction: column;
+   position: fixed;
+   z-index: 1;
+}
+
+#logo{
+   height: 25px;
+   width: max-content;
+}
+
+.privacy{
+   color: #5F6367;
+   font-weight: 300;
+   font-size: 1.3rem;
+}
+
+header li{
+   list-style-type: none;
+   margin-right: 45px;
+   font-size: 0.9rem;
+   padding-bottom: 8px;
+   cursor: pointer;
+   color: #5F6367;
+}
+
+#faq{
+   border-bottom: 3px solid #3367D6;
+   color: #3367D6;
+}
+
+header li:hover{
+   border-bottom: 3px solid #3367D6;
+   color: #3367D6;
+}
+
+.fa-ellipsis-vertical{
+   margin-left: auto;
+   color: #5F6367;
+   font-size: 1.2rem;
+   cursor: pointer;
+}
