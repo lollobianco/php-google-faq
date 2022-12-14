@@ -46,7 +46,7 @@ header li:hover{
 }
 
 .main{
-   width: 70%;
+   width: 60%;
    margin: 0 auto;
    padding-top: 90px;
 }
@@ -62,4 +62,5 @@ header li:hover{
    color: #212121;
    font-size: 0.9rem;
    margin-top: 10px;
+   padding-left: 10px;
 }
