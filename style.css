@@ -61,4 +61,5 @@ header li:hover{
 .reply{
    color: #212121;
    font-size: 0.9rem;
+   margin-top: 10px;
 }
